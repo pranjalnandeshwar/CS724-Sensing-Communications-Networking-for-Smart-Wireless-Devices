@@ -1,4 +1,4 @@
-# Intelligent Exercise Recognition and Counting Band with IMU Sensors
+# Fitness Tracker: Health Monitoring System
 
 ## Overview
 
